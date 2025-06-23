@@ -1,2 +1,5 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
+Allow: /
+
+# Optional, if you create a sitemap:
+# Sitemap: https://your-username.github.io/MyPortFolio/sitemap.xml
