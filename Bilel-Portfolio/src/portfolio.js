@@ -37,7 +37,7 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/bilel1999",
+  github: "https://github.com/MohamedBilelOueslati",
   linkedin: "https://www.linkedin.com/in/bilel-oueslati-/",
   gmail: "bilelouesslati@gmail.com",
   facebook: "https://www.facebook.com/bilel.oueslati.737/", 
