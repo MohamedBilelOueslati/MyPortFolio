@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/MyPortFolio/static/css/main.fd806867.css",
-    "main.js": "/MyPortFolio/static/js/main.ef4b2258.js",
+    "main.js": "/MyPortFolio/static/js/main.56af38b2.js",
     "static/css/962.7f11d217.chunk.css": "/MyPortFolio/static/css/962.7f11d217.chunk.css",
-    "static/js/962.d8189c9d.chunk.js": "/MyPortFolio/static/js/962.d8189c9d.chunk.js",
+    "static/js/962.02ad4cdf.chunk.js": "/MyPortFolio/static/js/962.02ad4cdf.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/MyPortFolio/static/css/990.c6a7ee28.chunk.css",
-    "static/js/990.f43c0e23.chunk.js": "/MyPortFolio/static/js/990.f43c0e23.chunk.js",
+    "static/js/990.26aab398.chunk.js": "/MyPortFolio/static/js/990.26aab398.chunk.js",
     "static/media/weelance.mp4": "/MyPortFolio/static/media/weelance.99cf70a372b0860c8d68.mp4",
     "static/media/blogs_oz.PNG": "/MyPortFolio/static/media/blogs_oz.9dce488fd68210878b25.PNG",
     "static/media/gallorie_oz.PNG": "/MyPortFolio/static/media/gallorie_oz.d595b3b310617a61aeb3.PNG",
@@ -44,14 +44,14 @@
     "index.html": "/MyPortFolio/index.html",
     "static/media/talksCardBack.svg": "/MyPortFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.fd806867.css.map": "/MyPortFolio/static/css/main.fd806867.css.map",
-    "main.ef4b2258.js.map": "/MyPortFolio/static/js/main.ef4b2258.js.map",
+    "main.56af38b2.js.map": "/MyPortFolio/static/js/main.56af38b2.js.map",
     "962.7f11d217.chunk.css.map": "/MyPortFolio/static/css/962.7f11d217.chunk.css.map",
-    "962.d8189c9d.chunk.js.map": "/MyPortFolio/static/js/962.d8189c9d.chunk.js.map",
+    "962.02ad4cdf.chunk.js.map": "/MyPortFolio/static/js/962.02ad4cdf.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/MyPortFolio/static/css/990.c6a7ee28.chunk.css.map",
-    "990.f43c0e23.chunk.js.map": "/MyPortFolio/static/js/990.f43c0e23.chunk.js.map"
+    "990.26aab398.chunk.js.map": "/MyPortFolio/static/js/990.26aab398.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd806867.css",
-    "static/js/main.ef4b2258.js"
+    "static/js/main.56af38b2.js"
   ]
 }
